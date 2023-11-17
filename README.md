@@ -1,12 +1,15 @@
 # React Vite Google Search Clone
 This project is a clone of the popular search engine Google Search, built using Vite. It provides a user-friendly interface for searching the web, replicating the core functionality of the original Google Search.
 
-
-
 ## Features
 Searchable Interface: Users can enter their search queries and receive relevant results from the web.
 Instant Search Results: Search results are displayed dynamically as the user types, providing an intuitive and responsive experience.
 User-Friendly Design: The interface is designed to be simple and easy to use, making it accessible to a wide range of users.
+
+## Screenshots
+![Screenshot (42)](https://github.com/likhithkp/React-Vite-Google-Search-Clone/assets/88890448/bf77b6c8-d260-4cb9-b781-b85df9495e98)
+![Screenshot (43)](https://github.com/likhithkp/React-Vite-Google-Search-Clone/assets/88890448/f3c6b362-341e-43bf-aade-b67ae4a396bf)
+![Screenshot (44)](https://github.com/likhithkp/React-Vite-Google-Search-Clone/assets/88890448/1439206a-c3f6-4043-b404-1ac477e47686)
 
 ## Technology Stack
   Vite.
