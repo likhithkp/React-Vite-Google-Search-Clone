@@ -1,5 +1,5 @@
 # Google Search Clone
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5e15146c-3e1b-4230-ad53-0db2a407c679/deploy-status)](https://app.netlify.com/sites/googlevite/deploys)
 ## Overview
 This project is a clone of the popular search engine Google Search, built using Vite. It provides a user-friendly interface for searching the web, replicating the core functionality of the original Google Search.
 
